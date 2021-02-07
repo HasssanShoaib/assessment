@@ -1,13 +1,14 @@
 package com.capgemini.SRAPIService;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import com.capgemini.srapiservice.service.impl.MathServiceImpl;
 
 import java.text.DecimalFormat;
 import java.util.Arrays;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.capgemini.srapiservice.service.impl.MathServiceImpl;
+
 
 /**
  * Unit test for MathServiceImpl
